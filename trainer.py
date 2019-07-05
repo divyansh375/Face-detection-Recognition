@@ -4,7 +4,7 @@ import requests
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') 
 
-url = "http://192.168.0.116:8080//shot.jpg"
+url = ""
 c=0
 while (c<50):
 
